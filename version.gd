@@ -1,3 +1,4 @@
 extends Node
 
-var version 
+var version = 1.0
+var beta = true
